@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Success to open file instruction
+WARNING: File D:\HK241\project_1\project_1.sim\sim_1\behav\instruction.txt.txt referenced from process on F:/Hoc Tap/Hardware/thit k lun l/project/project_5/imem.v at line 10 cannot be opened for reading. Please ensure that this file is available in the current working directory or parent directory of xsim.dir location specified via -xsimdir switch.
+PC: 00 xxxxxxxx
+PC: xx xxxxxxxx

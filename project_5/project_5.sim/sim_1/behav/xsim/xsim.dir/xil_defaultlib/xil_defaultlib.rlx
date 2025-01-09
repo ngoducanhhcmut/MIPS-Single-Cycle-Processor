@@ -1,0 +1,13 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+F:/Hoc Tap/Hardware/thit k lun l/project/project_5/alu.v,1736230810,verilog,,F:/Hoc Tap/Hardware/thit k lun l/project/project_5/alucontrol.v,,alu,,,,,,,,
+F:/Hoc Tap/Hardware/thit k lun l/project/project_5/alucontrol.v,1736230812,verilog,,F:/Hoc Tap/Hardware/thit k lun l/project/project_5/control.v,,alu_control,,,,,,,,
+F:/Hoc Tap/Hardware/thit k lun l/project/project_5/control.v,1736230813,verilog,,F:/Hoc Tap/Hardware/thit k lun l/project/project_5/dmem.v,,control_unit,,,,,,,,
+F:/Hoc Tap/Hardware/thit k lun l/project/project_5/dmem.v,1736236700,verilog,,F:/Hoc Tap/Hardware/thit k lun l/project/project_5/imem.v,,data_memory,,,,,,,,
+F:/Hoc Tap/Hardware/thit k lun l/project/project_5/imem.v,1736236958,verilog,,F:/Hoc Tap/Hardware/thit k lun l/project/project_5/reg.v,,instruction_memory,,,,,,,,
+F:/Hoc Tap/Hardware/thit k lun l/project/project_5/project_5.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+F:/Hoc Tap/Hardware/thit k lun l/project/project_5/reg.v,1736230818,verilog,,F:/Hoc Tap/Hardware/thit k lun l/project/project_5/test.v,,register_file,,,,,,,,
+F:/Hoc Tap/Hardware/thit k lun l/project/project_5/sim.v,1736230820,verilog,,,,main,,,,,,,,
+F:/Hoc Tap/Hardware/thit k lun l/project/project_5/test.v,1736230822,verilog,,F:/Hoc Tap/Hardware/thit k lun l/project/project_5/sim.v,,mips_processor,,,,,,,,

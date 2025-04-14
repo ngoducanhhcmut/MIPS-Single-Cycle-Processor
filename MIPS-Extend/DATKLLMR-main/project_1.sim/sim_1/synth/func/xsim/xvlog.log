@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HK241/project_1/project_1.sim/sim_1/synth/func/xsim/main_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_memory
+INFO: [VRFC 10-311] analyzing module mips_processor
+INFO: [VRFC 10-311] analyzing module register_file
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/HK241/project_1/project_1.srcs/sources_1/new/sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main

@@ -1,0 +1,157 @@
+Time resolution is 1 ps
+PC: xxxxxxxx xxxxxxxx
+PC: 00000000 20080003
+Write register  8 value 00000003
+PC: 00000004 01084820
+Write register  9 value 00000006
+PC: 00000008 ac090120
+Write at addr 288 value 00000006
+PC: 0000000c 8c090100
+Write register  9 value face0000
+PC: 00000010 3c01face
+Write register  1 value face0000
+PC: 00000014 34210000
+Write register  1 value face0000
+PC: 00000018 10290001
+PC: 00000020 0800000a
+PC: 00000028 20080008
+Write register  8 value 00000008
+PC: 0000002c 3109ffff
+Write register  9 value 00000008
+PC: 00000030 350affff
+Write register 10 value 0000ffff
+PC: 00000034 012a5825
+Write register 11 value 0000ffff
+PC: 00000038 012a5824
+Write register 11 value 00000008
+PC: 0000003c 012a5827
+Write register 11 value ffff0000
+PC: 00000040 01084022
+Write register  8 value 00000000
+PC: 00000044 012a582a
+Write register 11 value 00000001
+PC: 00000048 80090100
+Write register  9 value fffffffa
+PC: 0000004c 84090100
+Write register  9 value ffffface
+PC: 00000050 94090100
+Write register  9 value 0000face
+PC: 00000054 90090100
+Write register  9 value 000000fa
+PC: 00000058 3c010000
+Write register  1 value 00000000
+PC: 0000005c 3421ffff
+Write register  1 value 0000ffff
+PC: 00000060 00014820
+Write register  9 value 0000ffff
+PC: 00000064 a4090120
+Write at addr 288 value ffff
+PC: 00000068 a0000120
+Write at addr 288 value 00
+PC: 0000006c 3c09cafe
+Write register  9 value cafe0000
+PC: 00000070 200100fe
+Write register  1 value 000000fe
+PC: 00000074 14290002
+PC: 00000080 20090002
+Write register  9 value 00000002
+PC: 00000084 20080001
+Write register  8 value 00000001
+PC: 00000088 00084880
+Write register  9 value 00000004
+PC: 0000008c 20080008
+Write register  8 value 00000008
+PC: 00000090 00084842
+Write register  9 value 00000004
+PC: 00000094 292a0008
+Write register 10 value 00000001
+PC: 00000098 xxxxxxxx
+PC: 0000009c xxxxxxxx
+PC: 000000a0 xxxxxxxx
+PC: 000000a4 xxxxxxxx
+PC: 000000a8 xxxxxxxx
+PC: 000000ac xxxxxxxx
+PC: 000000b0 xxxxxxxx
+PC: 000000b4 xxxxxxxx
+PC: 000000b8 xxxxxxxx
+PC: 000000bc xxxxxxxx
+PC: 000000c0 xxxxxxxx
+PC: 000000c4 xxxxxxxx
+PC: 000000c8 xxxxxxxx
+PC: 000000cc xxxxxxxx
+PC: 000000d0 xxxxxxxx
+PC: 000000d4 xxxxxxxx
+PC: 000000d8 xxxxxxxx
+PC: 000000dc xxxxxxxx
+PC: 000000e0 xxxxxxxx
+PC: 000000e4 xxxxxxxx
+PC: 000000e8 xxxxxxxx
+PC: 000000ec xxxxxxxx
+PC: 000000f0 xxxxxxxx
+PC: 000000f4 xxxxxxxx
+PC: 000000f8 xxxxxxxx
+PC: 000000fc xxxxxxxx
+PC: 00000000 20080003
+Write register  8 value 00000003
+PC: 00000004 01084820
+Write register  9 value 00000006
+PC: 00000008 ac090120
+Write at addr 288 value 00000006
+PC: 0000000c 8c090100
+Write register  9 value face0000
+PC: 00000010 3c01face
+Write register  1 value face0000
+PC: 00000014 34210000
+Write register  1 value face0000
+PC: 00000018 10290001
+PC: 00000020 0800000a
+PC: 00000028 20080008
+Write register  8 value 00000008
+PC: 0000002c 3109ffff
+Write register  9 value 00000008
+PC: 00000030 350affff
+Write register 10 value 0000ffff
+PC: 00000034 012a5825
+Write register 11 value 0000ffff
+PC: 00000038 012a5824
+Write register 11 value 00000008
+PC: 0000003c 012a5827
+Write register 11 value ffff0000
+PC: 00000040 01084022
+Write register  8 value 00000000
+PC: 00000044 012a582a
+Write register 11 value 00000001
+PC: 00000048 80090100
+Write register  9 value fffffffa
+PC: 0000004c 84090100
+Write register  9 value ffffface
+PC: 00000050 94090100
+Write register  9 value 0000face
+PC: 00000054 90090100
+Write register  9 value 000000fa
+PC: 00000058 3c010000
+Write register  1 value 00000000
+PC: 0000005c 3421ffff
+Write register  1 value 0000ffff
+PC: 00000060 00014820
+Write register  9 value 0000ffff
+PC: 00000064 a4090120
+Write at addr 288 value ffff
+PC: 00000068 a0000120
+Write at addr 288 value 00
+PC: 0000006c 3c09cafe
+Write register  9 value cafe0000
+PC: 00000070 200100fe
+Write register  1 value 000000fe
+PC: 00000074 14290002
+PC: 00000080 20090002
+Write register  9 value 00000002
+PC: 00000084 20080001
+Write register  8 value 00000001
+PC: 00000088 00084880
+Write register  9 value 00000004
+PC: 0000008c 20080008
+Write register  8 value 00000008
+PC: 00000090 00084842
+Write register  9 value 00000004
+PC: 0000009
